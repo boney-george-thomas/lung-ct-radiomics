@@ -94,3 +94,7 @@ TCGA-LUSC-CT-Segmentation/
 ├── FJ_update.py # Script version
 ├── requirements.txt
 └── README.md
+
+## Dataset
+Dataset not included due to size and TCGA data usage policies.
+Users must download TCGA-LUSC dataset from TCIA portal.
