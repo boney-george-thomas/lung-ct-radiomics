@@ -22,7 +22,7 @@ This project replicates a clinically relevant imaging workflow using open-source
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### DICOM Processing
 - Recursive identification of DICOM slices
@@ -97,4 +97,5 @@ TCGA-LUSC-CT-Segmentation/
 
 ## Dataset
 Dataset not included due to size and TCGA data usage policies.
-Users must download TCGA-LUSC dataset from TCIA portal.
+Users must download TCGA-LUSC dataset from TCIA portal.  
+Dataset link:  https://www.cancerimagingarchive.net/collection/tcga-lusc/
